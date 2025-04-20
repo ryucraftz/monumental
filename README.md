@@ -1,4 +1,4 @@
-# Monument Booking App
+# Monumental
 
 A Flutter-based mobile application for booking and managing monument visits. This app allows users to discover, book, and manage their visits to various monuments with features like QR code scanning, location services, and secure payment processing.
 
